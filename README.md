@@ -1,5 +1,5 @@
 <h1>Hello friends 🖐️</h1>
-<p>👨‍💻 Frontend Developer | Cybersecurity Enthusiast 🔐
+<p>👨‍💻Cybersecurity Enthusiast 🔐
 Passionate about crafting responsive, user-centric web applications with a focus on clean code and security best practices.
 
 🛠️ Tools: HTML, CSS, JavaScript, React, Angular, Vue.js
