@@ -1,5 +1,12 @@
 <h1>Hello friends 🖐️</h1>
-<p>👨‍💻 Passionate Frontend Developer | Cybersecurity Enthusiast 🔐 Hi there! I'm a frontend developer with a deep passion for creating user-centric, responsive web applications. My focus is on crafting clean, efficient code while integrating robust security practices to safeguard applications against potential threats.  🛠️ Languages & Tools: HTML, CSS, JavaScript, React, Angular, Vue.js 🔍 Security Focus: XSS prevention, CSRF protection, secure coding practices 🎨 Design: UI/UX enthusiast with a strong eye for detail and accessibility 🌱 Learning: Constantly exploring new technologies and staying updated on the latest in cybersecurity and frontend development Let's build secure, beautiful, and functional web experiences together! 💻✨</p>
+<p>👨‍💻 Frontend Developer | Cybersecurity Enthusiast 🔐
+Passionate about crafting responsive, user-centric web applications with a focus on clean code and security best practices.
+
+🛠️ Tools: HTML, CSS, JavaScript, React, Angular, Vue.js
+🔍 Security: XSS, CSRF prevention, secure coding
+🎨 Design: UI/UX & accessibility advocate
+🌱 Learning: Always exploring the latest in frontend & cybersecurity
+Let’s build secure, beautiful web experiences! 💻✨</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
