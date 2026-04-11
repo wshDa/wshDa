@@ -1,3 +1,20 @@
+<h1 class="text-4xl sm:text-5xl font-bold bg-gradient-to-r from-cyan-400 to-purple-500 text-transparent bg-clip-text mb-4">
+  Hello friends 🖐️
+</h1>
+
+<p class="text-lg text-gray-300 max-w-3xl">
+  👨‍💻 <strong>Cybersecurity Enthusiast</strong> 🔐<br>
+  <br>
+  Passionate about crafting responsive, user‑centric web applications with a focus on <strong>clean code</strong> and <strong>security best practices</strong>.<br>
+  <br>
+  <span class="text-cyan-400">🛠️</span> <strong>Frontend stack:</strong> HTML, CSS, JavaScript, React, Angular, Vue.js<br>
+  <span class="text-cyan-400">🔍</span> <strong>Security:</strong> XSS, CSRF prevention, secure coding, auth hardening<br>
+  <span class="text-cyan-400">🎨</span> <strong>Design:</strong> UI/UX & accessibility advocate<br>
+  <span class="text-cyan-400">🌱</span> <strong>Learning:</strong> Always exploring the latest in frontend & cybersecurity<br>
+  <br>
+  <strong>Let’s build secure, beautiful web experiences! 💻✨</strong>
+</p>
+
 <h2 class="text-2xl sm:text-3xl font-bold text-cyan-400 mt-8 mb-4">
   🚀 Languages & Tools
 </h2>
@@ -28,6 +45,12 @@
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" class="block p-1 rounded-md hover:bg-cyan-900/40 transition">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" class="block p-1 rounded-md hover:bg-cyan-900/40 transition">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" />
+  </a>
+  <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" class="block p-1 rounded-md hover:bg-cyan-900/40 transition">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
   </a>
   <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" class="block p-1 rounded-md hover:bg-cyan-900/40 transition">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" />
